@@ -1,3 +1,3 @@
 # Use the official Python image as the base image
-FROM python:3.13.0b1-slim
+FROM python:3.14.0rc2-slim
 
